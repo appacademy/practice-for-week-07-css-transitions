@@ -32,7 +32,7 @@ resources may help.
 ## Phase 2 - Translate
 
 The next step is to use the CSS transition `transform` to move the astronaut
-element 100 degrees on the x axis when you hover over it. Follow the
+element 100 pixels on the x axis when you hover over it. Follow the
 instructions and use the gif as the targeted example.
 
 > Hint:
