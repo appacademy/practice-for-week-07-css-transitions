@@ -7,7 +7,7 @@
     /* Your code here */
 }
 
-/* Create rocket hover animation here */
+/* Create rocket hover animation here
 
 
 /* ===== Problem 2 ===== */
@@ -19,7 +19,7 @@
     /* Your code here */
 }
 
-/* Create astronaut hover animation here */
+/* Create astronaut hover animation here
 
 /* ======= BONUS ======= */
 
@@ -27,9 +27,9 @@
     height: 200px;
     width: auto;
     margin-left: 300px;
-    /* Your animation here */
+    /* Your animation here
 }
 
 @keyframes spin {
-    /* Set up your keyframe animation here */
+    /* Set up your keyframe animation here
 }
